@@ -5,7 +5,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/Elvis-Not-Presley-One?style=flat-square&logo=github&logoSize=auto&color=pink)
 
 This is a image recognition model project that uses Tensorflows CNN(Convolutional Neural Network) architecture. 
- - This was a class projectcode was writen by four people 
+ - This was a class project, code was writen by four people 
 
 # what is a Convolutional Neural Network(s) 
 - A Convolutional Neural Network is a type of neural network architecture that is popular use cases are for:
